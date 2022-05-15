@@ -1,0 +1,19 @@
+{
+    "name": "ishanvyas22/php-rabbitmq-demo",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ishanvyas22\\PhpRabbitmqDemo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ishan Vyas",
+            "email": "isvyas@gmail.com"
+        }
+    ],
+    "require": {
+        "php-amqplib/php-amqplib": "^3.2"
+    }
+}
